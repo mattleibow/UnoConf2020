@@ -15,11 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp.macOS", "DemoApp\De
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DemoApp.Shared", "DemoApp\DemoApp.Shared\DemoApp.Shared.shproj", "{6279C845-92F8-4333-AB99-3D213163593C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E7A3BB57-4519-4CD0-AD4A-C37653CF28E9}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		DemoApp\DemoApp.Shared\DemoApp.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
