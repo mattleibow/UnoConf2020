@@ -69,7 +69,7 @@ namespace DemoApp
 			// clear the canvas of any old drawings
 			canvas.Clear(SKColors.White);
 
-			// come the canvas so the center of the canvas is under our brush
+			// move the canvas so the center of the canvas is under our brush
 			canvas.Translate(info.Width / 2, info.Height / 2);
 
 			// zoom in on the canvas
