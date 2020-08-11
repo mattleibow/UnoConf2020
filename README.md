@@ -7,10 +7,10 @@ This repo will have the slides and the code that makes everyone happy.
 ## Links
 
  - SkiaSharp  
-   source: https://github.com/mono/SkiaSharp 
+   source: https://github.com/mono/SkiaSharp  
    api: https://docs.microsoft.com/dotnet/api/SkiaSharp  
-   guides: https://docs.microsoft.com/xamarin/graphics-games/skiasharp
-   discord: #skiasharp at https://aka.ms/dotnet-discord
+   guides: https://docs.microsoft.com/xamarin/graphics-games/skiasharp  
+   discord: #skiasharp at https://aka.ms/dotnet-discord  
  - FlappyBird  
    source: https://github.com/mattleibow/FlappyBird  
    game: https://mattleibow.github.io/FlappyBird/
